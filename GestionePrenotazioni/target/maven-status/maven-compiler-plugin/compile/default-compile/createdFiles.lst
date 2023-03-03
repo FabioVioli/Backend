@@ -1,0 +1,13 @@
+com\GestionePrenotazioni\repositories\PrenotazioneDaoRepository.class
+com\GestionePrenotazioni\models\Postazione.class
+com\GestionePrenotazioni\runners\GestionePrenotazioniRunner.class
+com\GestionePrenotazioni\services\EdificioService.class
+com\GestionePrenotazioni\services\UtenteService.class
+com\GestionePrenotazioni\enums\Tipo.class
+com\GestionePrenotazioni\repositories\EdificioDaoRepository.class
+com\GestionePrenotazioni\repositories\PostazioneDaoRepository.class
+com\GestionePrenotazioni\GestionePrenotazioniApplication.class
+com\GestionePrenotazioni\repositories\UtenteDaoRepository.class
+com\GestionePrenotazioni\models\Utente.class
+com\GestionePrenotazioni\models\Edificio.class
+com\GestionePrenotazioni\models\Prenotazione.class

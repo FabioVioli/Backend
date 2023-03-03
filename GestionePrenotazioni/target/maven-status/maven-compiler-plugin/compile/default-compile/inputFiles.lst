@@ -1,0 +1,15 @@
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\models\Postazione.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\models\Utente.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\runners\GestionePrenotazioniRunner.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\models\Edificio.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\repositories\PostazioneDaoRepository.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\services\EdificioService.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\services\PrenotazioneService.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\repositories\PrenotazioneDaoRepository.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\services\UtenteService.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\models\Prenotazione.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\services\PostazioneService.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\enums\Tipo.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\repositories\EdificioDaoRepository.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\repositories\UtenteDaoRepository.java
+E:\Java\fs0722b\GestionePrenotazioni\src\main\java\com\GestionePrenotazioni\GestionePrenotazioniApplication.java
